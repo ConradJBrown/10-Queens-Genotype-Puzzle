@@ -12,7 +12,7 @@ When combined with the code written for Assignment 2, the work you do here will 
 - Survivor Selection
 - Measuring Population Diversity (often useful for termination criteria and analysing a GA's performance)
 
-Four classes have been provided for this task.  The first three classes are in .java format and you can view their code: Queens2.java, Tester2.java and Coordinate.java.
+Four classes have been provided for this task.  The first three classes are in .java format and you can view their code: Queens2.java, Tester2.java and Coordinate.java. Tester2.java and coordinate.java where given by Dr. Mark Hatcher
 
 The Queens.java file was my original file from my second assignment.
 
