@@ -14,7 +14,7 @@ When combined with the code written for Assignment 2, the work you do here will 
 
 Four classes have been provided for this task.  The first three classes are in .java format and you can view their code: Queens2.java, Tester2.java and Coordinate.java.
 
-The fourth class provided, Queens.class, is a fully coded version of the class that was required for assignment 2.  It's been provided in .class format in order to hide the code - for obvious reasons!
+The Queens.java file was my original file from my second assignment.
 
 You should keep all four of these classes in the same folder when compiling and running your work.
 
